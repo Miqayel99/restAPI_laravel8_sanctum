@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravelarticle.com/filemanager/uploads/laravel-sanctum.png" target="_blank"><img src="https://res.cloudinary.com/redfern-web/image/upload/v1598516539/redfern-dev/png/laravel-sanctum.png" width="400"></a></p>
+<p align="center"><a href="https://laravel.com/docs/8.x/sanctum" target="_blank"><img src="https://res.cloudinary.com/redfern-web/image/upload/v1598516539/redfern-dev/png/laravel-sanctum.png" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
